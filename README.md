@@ -39,3 +39,9 @@
 ## Stay Support ⚡
 
 📢  [Other Project](https://t.me/MYALTERARTWORK) 
+
+git commit -m "first commit"
+git branch -M newbee
+git remote add origin https://github.com/Upilkimpul/𝐌𝐘𝐀𝐋𝐓𝐄𝐑𝐀𝐑𝐓𝐖𝐎𝐑𝐊.git
+git push -u origin newbee
+
